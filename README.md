@@ -2,7 +2,7 @@
 
 ## Run
 
-`sbt run {{pathToDir}}`
+`sbt "run {{pathToDir}}"`
 
 e.g.:
 
